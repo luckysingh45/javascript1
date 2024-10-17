@@ -1,4 +1,4 @@
-"use strict"//treat all js code as  newer  version
+//"use strict"//treat all js code as  newer  version
 //alert(3+3)//we are using node js not browser
 //number=> 2 to 53
 //bigint
@@ -9,4 +9,7 @@
 let name="lucky"
 //object
 console.log(typeof "lucky");
+console.log(typeof null);//object
+
+
 
